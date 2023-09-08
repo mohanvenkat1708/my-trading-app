@@ -1,0 +1,32 @@
+
+.Content{
+    background-color: #ebfffb;
+}
+.Welcome{
+    padding-top: 20px;
+    font-size: large;
+}
+.image {
+    background-image: url(./finance.jpg);
+    background-size: 30%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    animation: bounce 2s infinite ;
+    border-style: none;
+    background-color: inherit;
+  }
+
+  @keyframes bounce {
+    0%,100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-50px);
+    }
+  }
