@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-trading-app/static/css/main.dba024c3.css",
+    "main.js": "/my-trading-app/static/js/main.61014f83.js",
+    "static/media/finance.jpg": "/my-trading-app/static/media/finance.3067492bce690e2f5e42.jpg",
+    "static/media/gold.png": "/my-trading-app/static/media/gold.7480358f1fe77769a017.png",
+    "static/media/exchange.png": "/my-trading-app/static/media/exchange.b251a4adfa34a483c128.png",
+    "static/media/stocks.png": "/my-trading-app/static/media/stocks.a13642cd973f9a5d8dab.png",
+    "static/media/commodity.png": "/my-trading-app/static/media/commodity.55a22b0387118baea318.png",
+    "static/media/logo.svg": "/my-trading-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-trading-app/index.html",
+    "main.dba024c3.css.map": "/my-trading-app/static/css/main.dba024c3.css.map",
+    "main.61014f83.js.map": "/my-trading-app/static/js/main.61014f83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dba024c3.css",
+    "static/js/main.61014f83.js"
+  ]
+}
